@@ -1,0 +1,304 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A sermon preached in the parish-church of St. Philip and Jacob, in the city of Bristol on Wednesday the 15th of July, 1691. Being the monthly-fast. By Thomas Cary, M.A. Vicar of the parish of St. Philip and Jacob, in the city of Bristol.</title>
+            <author>Cary, Thomas, 1648 or 9-1711.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1691</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 23 KB of XML-encoded text transcribed from 16 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A81104</idno>
+            <idno type="STC">Wing C743B</idno>
+            <idno type="STC">ESTC R232684</idno>
+            <idno type="EEBO-CITATION">99898036</idno>
+            <idno type="PROQUEST">99898036</idno>
+            <idno type="VID">171045</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A81104)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 171045)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2551:22)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A sermon preached in the parish-church of St. Philip and Jacob, in the city of Bristol on Wednesday the 15th of July, 1691. Being the monthly-fast. By Thomas Cary, M.A. Vicar of the parish of St. Philip and Jacob, in the city of Bristol.</title>
+                  <author>Cary, Thomas, 1648 or 9-1711.</author>
+               </titleStmt>
+               <extent>[6], 22 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by F.C. for Thomas Guy, at the Oxford Arms in Lumbard-street,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1691.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Bodleian Library, Oxford, England.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-04</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-08</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2013-08</date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:171045:1" rendition="simple:additions"/>
+            <p>A SERMON Preached in the <hi>Pariſh-Church</hi> OF St. <hi>PHILIP</hi> and <hi>JACOB,</hi> IN THE City of Briſtol, ON <hi>Wedneſday</hi> the 15th of <hi>July,</hi> 1691. BEING THE MONTHLY-FAST. By <hi>THOMAS CARY,</hi> M. A. Vicar of the Pariſh of St. <hi>Philip</hi> and <hi>Jacob,</hi> in the City of <hi>Briſtol.</hi>
+            </p>
+            <p>
+               <hi>London:</hi> Printed by <hi>F. C.</hi> for <hi>Thomas Guy,</hi> at the <hi>Oxford Arms</hi> in <hi>Lumbard-ſtreet.</hi> 1691.</p>
+            <pb facs="tcp:171045:2" rendition="simple:additions"/>
+            <gap reason="duplicate" resp="#OXF" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:171045:3" rendition="simple:additions"/>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:171045:3"/>
+            <head>
+               <hi>To the Right Honourable,</hi> Charles <hi>Earl of</hi> Maclesfield, <hi>Viſ<g ref="char:EOLhyphen"/>count and Baron of</hi> Bran<g ref="char:EOLhyphen"/>don, <hi>Lord Preſident, and Lord Lieutenant of the Prin<g ref="char:EOLhyphen"/>cipality of</hi> Wales, <hi>and Lord Lieutenant of the Counties of</hi> Glouceſter, Hereford, <hi>and</hi> Mon<g ref="char:EOLhyphen"/>mouth, <hi>and of the City and County of</hi> Briſtol; <hi>and one of the Lords, of Their Ma<g ref="char:EOLhyphen"/>jeſties moſt Honourable Pri<g ref="char:EOLhyphen"/>vy Council.</hi>
+            </head>
+            <opener>
+               <salute>My Lord,</salute>
+            </opener>
+            <p>YO<g ref="char:V">Ʋ</g>R Approbation of this Ser<g ref="char:EOLhyphen"/>mon, when it came from the Pulpit, gives me Confidence to Preſent it to your Lordſhip, now it comes from
+<pb facs="tcp:171045:4"/> the Preſs, what had the Honour of your Acceptation when it was Private, humbly claims your Patronage now it is Publick; I ſhould not however Preſume to Prefix your Lordſhips great Name to this mean Diſcourſe, did not your Goodneſs diſpoſe you to accept of a mean Offering, eſpecially when it comes as the Expreſſion of a grateful Heart; al<g ref="char:EOLhyphen"/>though I am ſenſible, your Lordſhip is ſo far from being taken with Flattery, that you cannot bear to hear your Due; yet I cannot but Congratulate your Lordſhips hearty Zeal, and indefati<g ref="char:EOLhyphen"/>gable Induſtry, in that high Orb, in which you Act, for the Support of that Government, which God by a Train of Remarkable Providences hath Eſtabliſhed among us!</p>
+            <pb facs="tcp:171045:4"/>
+            <p>May your Lordſhip Live, to ſee it fixt upon ſuch ſolid Foundations, that it may never ſo much as ſhake, much leſs tumble down.</p>
+            <p>My Lord, I have one Advantage by this Dedication, which I confeſs I am fond of; that is, an Opportunity to give your Lordſhip a publick Acknowledgment, for the great Obligations you have laid on me, and to let the World know how much I value my ſelf on the Character of</p>
+            <closer>
+               <salute>My Lord,</salute>
+               <signed>
+                  <hi>Your Lordſhips Moſt humble Servant, and Chaplain,</hi> Thomas Cary.</signed>
+            </closer>
+            <pb facs="tcp:171045:5"/>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:171045:5"/>
+            <epigraph>
+               <q>
+                  <bibl>EZRA IX. 13, 14.</bibl>
+                  <p>And after all that is come upon us for our evil deeds, and for our great tre<g ref="char:EOLhyphen"/>ſpaſs, ſeeing that thou our God hast puniſhed us leſs then our iniquities deſerve, and hast given us ſuch de<g ref="char:EOLhyphen"/>liverance as this.</p>
+                  <p>Should we again break thy command<g ref="char:EOLhyphen"/>ments, and joyn in affinity with the people of theſe abominations? would<g ref="char:EOLhyphen"/>est not thou be angry with us till thou hadst conſumed us, ſo that there ſhould be no remnant nor eſcaping?</p>
+               </q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">T</seg>HE words are a part of <hi>Ezra</hi>'s Prayer, the time when he Prayed was after the return of the <hi>Jews</hi> from the Captivity in <hi>Babylon,</hi> and the free Exerciſe of their Religion, after
+<pb n="2" facs="tcp:171045:6"/> the ſecond Temple was finiſhed; the deli<g ref="char:EOLhyphen"/>verance here mentioned, is their liberty to return and to ſet up God's publick Worſhip in <hi>Jeruſalem;</hi> the Sins he here mourns for, and prayeth God to Pardon, are the Ido<g ref="char:EOLhyphen"/>latry of the <hi>Jews,</hi> and their Intermarriages with the <hi>Heathens,</hi> after God had given them ſo great a deliverance.</p>
+            <p>This good Man feared the Conſequence of their great Ingratitude, he ſaw God's end fruſtrated, and therefore expected grea<g ref="char:EOLhyphen"/>ter Judgments; he obſerved no Reformation after ſuch a ſignal Providence, and there<g ref="char:EOLhyphen"/>fore had juſt Reaſon to believe, that God would bring them back again into that Cap<g ref="char:EOLhyphen"/>tivity, out of which they lately eſcaped. He acknowledgeth it is but fit, that God ſhould inflict more ſevere Judgments, when his Mercies do not draw to obedience, the deſign of the whole, is to perſwade the <hi>Jews</hi> to Repentance and Reformation, as a ſuitable return to a gracious God, for their late Deliverance.</p>
+            <pb n="3" facs="tcp:171045:6"/>
+            <p>The words contain theſe five Propoſiti<g ref="char:EOLhyphen"/>ons:
+<list>
+                  <item>1. That Sin is the cauſe of all the Miſeries that do befal the Church and People of God; <hi>And after all that is come upon us for our evil deeds and for our great treſpaſs.</hi>
+                  </item>
+                  <item>2. That God doth not puniſh his Church and People, according to the Merit of their Sins; <hi>Seeing that thou our God hast puniſhed us leſs then our iniquities deſerve.</hi>
+                  </item>
+                  <item>3. That the Deliverances of the Church and People of God come from him; <hi>and hast given us ſuch Deliverance as this.</hi>
+                  </item>
+                  <item>4. That great Deliverances do call for great Reformation, by way of Thank<g ref="char:EOLhyphen"/>fulneſs and Gratitude; <hi>This is implyed throughout the whole:</hi>
+                  </item>
+                  <pb n="4" facs="tcp:171045:7"/>
+                  <item>5. That Diſobedience after a great Deli<g ref="char:EOLhyphen"/>verance, doth highly provoke God to inflict more terrible Judgments.</item>
+               </list>
+            </p>
+            <p>
+               <hi>Should we again break thy Commandments, and joyn in affinity with the people of theſe abominations? wouldest thou not be angry with us till thou had'ſt conſumed us, ſo that there ſhould be no remnant nor eſcaping?</hi>
+            </p>
+            <p>I ſhall all along apply theſe Heads, in or<g ref="char:EOLhyphen"/>der to perſwade Men to Repentance and Reformation, for the great Deliverance, we of this Nation have lately received.</p>
+            <p n="1">1. That Sin is the cauſe of all the Miſeries that do befall the Church and People of God; <hi>And after all that is come upon us for our evil deeds and for our great treſpaſs.</hi>
+            </p>
+            <p>It was Sin, that carried the two Tribes Captive into <hi>Babylon</hi> for ſeventy Years, deſtroyed their City and Temple, ſlew their Princes and Nobles, and laid their Country
+<pb n="5" facs="tcp:171045:7"/> deſolate. Zedekiah <hi>did that which was evil in the ſight of the Lord his God, and hum<g ref="char:EOLhyphen"/>bled</hi> 
+               <note place="margin">2 Chron. 36. 12, 13.</note> 
+               <hi>not himſelf before</hi> Jeremiah <hi>the prophet, ſpeaking from the mouth of the Lord; he ſtif<g ref="char:EOLhyphen"/>fened his neck, and hardened his heart from turning unto the Lord God of</hi> Iſrael: <hi>Moreo<g ref="char:EOLhyphen"/>ver, all the chief of the prieſts, and the peo<g ref="char:EOLhyphen"/>ple tranſgreſſed very much, after all the abom<g ref="char:EOLhyphen"/>inations of the heathen, and polluted the houſe of the Lord which he had allowed in</hi> Jeruſa<g ref="char:EOLhyphen"/>lem: <hi>Therefore he brought upon them the King of the</hi> Chaldees, <hi>who ſlew their young men with the ſword, in the houſe of their ſanctua<g ref="char:EOLhyphen"/>ry, and had no compaſſion on young man or maiden, old man, or him that ſtooped for age: he gave them all into his hand.</hi>
+            </p>
+            <p>All theſe evils came upon the Church of the two Tribes, <hi>for their evil deeds and for their great treſpaſs,</hi> for their Idolatry in Wor<g ref="char:EOLhyphen"/>ſhipping ſtrange Gods, for their immoral Practices, in living worſe then the <hi>Heathen,</hi> for the corruption of their Hearts, and pro<g ref="char:EOLhyphen"/>phaneneſs of their Lives.</p>
+            <pb n="6" facs="tcp:171045:8"/>
+            <p>And now to apply this home to our ſelves; It was for the Sins of this Nation, that we were brought ſo near unto Deſtruction, God ſhook his Rod over us, to ſhew us what Puniſhment our Sins deſerved, although in Mercy he did not lay the Ax to the Root of the Tree; it was for contempt of God's Word and Worſhip, for prophaning his Holy Day, diſhonouring his ſacred Name, by Cuſtomary Swearing and Curſing, for Drunkenneſs, Adultery, Pride, and Diſſo<g ref="char:EOLhyphen"/>lute living, that we were likely to looſe our Religion, our Liberties, and our Properties; we deſerved theſe Judgments as much as ever the <hi>Jews</hi> did their ſeventy Years Cap<g ref="char:EOLhyphen"/>tivity in <hi>Babylon;</hi> the more reaſon then have we to praiſe God for our late Delive<g ref="char:EOLhyphen"/>rance: This brings me to the ſecond Par<g ref="char:EOLhyphen"/>ticular.</p>
+            <p n="2">2. That God doth not puniſh his Church and People according to the Merit of their Sins; <hi>Seeing that thou our God hast puniſhed us leſs then our iniquities deſerve.</hi>
+            </p>
+            <pb n="7" facs="tcp:171045:8"/>
+            <p>God temper's Mercy and Judgment toge<g ref="char:EOLhyphen"/>ther, he doth not proportion the Stripes to the Offence, he Corrects in Love, when he might juſtly Deſtroy in Wrath: the obſti<g ref="char:EOLhyphen"/>nate <hi>Jews</hi> deſerved, that God ſhould utter<g ref="char:EOLhyphen"/>ly forſake them, their Sins cryed for a long<g ref="char:EOLhyphen"/>er Captivity then of ſeventy Years; but it pleaſed God to reſtore them again to their Native Country, and to erect a ſecond Temple for his publick Worſhip: <hi>Yet many</hi> 
+               <note place="margin">Neh. 9. 30, 31.</note> 
+               <hi>years did'st thou forbear them, and teſtifiedſt againſt them by thy ſpirit in thy prophets: yet would they not give ear: therefore gavest thou them into the hand of the people of the lands. Nevertheleſs, for thy great mercies ſake, thou didst not utterly conſume them, nor forſake them; for thou art a Gracious and a Merciful God.</hi>
+            </p>
+            <p>And now to apply this to ourſelves; God hath certainly puniſhed us leſs then our Sins deſerve; it was not for any Righteouſneſs in us, that God hath ſo Graciouſly deliver<g ref="char:EOLhyphen"/>ed us, for we are a Rebellious and an Un<g ref="char:EOLhyphen"/>thankful
+<pb n="8" facs="tcp:171045:9"/> People, our Sins were clamorous for greater Judgments then thoſe, from which God hath in Mercy reſcued us, God may juſtly ſay to us, as heretofore to the <hi>Jews: Not for your ſakes do I this, ſaith the Lord God, be it known unto you: be aſhamed</hi> 
+               <note place="margin">Ezek. 36. 32.</note> 
+               <hi>and confounded for your own ways, O houſe of Iſrael.</hi>
+            </p>
+            <p>God hath ſpared us to magnifie his Grace in our Deliverance, he hath miracu<g ref="char:EOLhyphen"/>louſly preſerved us, to Demonſtrate to the Antichriſtian World, that we profeſs his true Religion, although we do not live up to it; it was more for the Sins of the <hi>Pa<g ref="char:EOLhyphen"/>piſts,</hi> then for the Righteouſneſs of the <hi>Proteſtants,</hi> that God ſo providentially Ap<g ref="char:EOLhyphen"/>peared for us.</p>
+            <p>O what great Reaſon have we then to celebrate God with Praiſes! O how thank<g ref="char:EOLhyphen"/>ful ſhould we be for this unexpected Deli<g ref="char:EOLhyphen"/>verance! God hath done great Things for us, and ſhall not we rejoyce in God? He hath Magnified his Mercy, and ſhall not we
+<pb n="9" facs="tcp:171045:9"/> Admire his Love? <hi>O give Thanks unto the</hi> 
+               <note place="margin">Pſal. 118. 1, 2, 3.</note> 
+               <hi>Lord, for he is good: becauſe his mercy endu<g ref="char:EOLhyphen"/>reth for ever. Let Iſrael now ſay, that his mercy endureth for ever. Let the houſe of Aaron now ſay, that his mercy endureth for ever. Let them now that fear the Lord ſay, that his mercy endureth for ever.</hi>
+            </p>
+            <p>That the Deliverances of the Church and People of God come from Him; <hi>and hast given us ſuch deliverance as this.</hi>
+            </p>
+            <p>The return of the <hi>Jews</hi> from their Cap<g ref="char:EOLhyphen"/>tivity in <hi>Babylon,</hi> was God's Act; he put it into the Heart of <hi>Cyrus,</hi> to iſſue out his Proclamation to rebuild <hi>Jeruſalem,</hi> and to Erect there a Temple to the Lord; God brought them down to <hi>Babylon,</hi> and brought them up again.</p>
+            <p>And thus our Deliverance from two in<g ref="char:EOLhyphen"/>tolerable Evils, Popery in the Church, and Slavery in the State, is God's Work; we may truly ſay of it, what the <hi>Magicians</hi> of <hi>Aegypt</hi> did of the unimitable Miracle, <hi>this</hi>
+               <pb n="10" facs="tcp:171045:10"/> 
+               <hi>is the Finger of God;</hi> we have great reaſon to apply the Words of the <hi>Pſalmiſt, this is</hi> 
+               <note place="margin">Pſal. 118. 23.</note> 
+               <hi>the Lord's doing, it is marvellous in our eyes.</hi>
+            </p>
+            <p>If ever any Deliverance had plain Cha<g ref="char:EOLhyphen"/>racters, of a remarkable Providence ſtampt upon it, this hath; God ſo managed the whole, that every one may diſcern his Hand in it, that doth not affect wilful Blindneſs, it was ſo contrived in every part of it, it came in ſuch a time of Ex<g ref="char:EOLhyphen"/>tremity, and was brought about by ſuch Unlikely and Improbable means, all things did ſo Conſpire together for the good of this Church and State, that if ever God hath wrought Miracles in any Age, ſince that of the Apoſtles, then was the time.</p>
+            <p>Let us not then impute our Deliverance to Chance and Fortune, or to our own Wiſ<g ref="char:EOLhyphen"/>dom and Endeavours, or to the Policy and Craft of States-men, or to the renowned Inſtrument of it, that Illuſtrous Prince (whom God hath in Mercy to us, Exalted
+<pb n="11" facs="tcp:171045:10"/> to the Throne) but wholly to the Provi<g ref="char:EOLhyphen"/>dence of the Almighty: Let us ſay with <hi>Daniel, Bleſſed be the Name of God for ever</hi> 
+               <note place="margin">Dan. 2. 20, 21.</note> 
+               <hi>and ever: for wiſdom and might are his, and he changeth the times and the ſeaſons: he re<g ref="char:EOLhyphen"/>moveth kings, and ſetteth up kings: he giv<g ref="char:EOLhyphen"/>eth wiſdom unto the wiſe, and knowledge to them that know underſtanding: He revealeth the deep and ſecret things: he knoweth what is in darkneſs, and the light dwelleth with him.</hi>
+            </p>
+            <p>Here certainly we may apply the Words in the Song of <hi>Moſes; How ſhould one chaſe</hi> 
+               <note place="margin">Deut. 32. 30, 31.</note> 
+               <hi>a thouſand, and two put ten thouſand to flight, except their Rock had ſold them, and the Lord had ſhut them up? For their Rock is not as our Rock, even our enemies themſelves being judges.</hi>
+            </p>
+            <p>Let us then regard God, as the ſole Au<g ref="char:EOLhyphen"/>thor of our Preſervation, let us not ſo much conſider ſecond Cauſes as the original Cauſe; let us conclude this Point, with the Words of the <hi>Pſalmiſt: If it had not been the</hi> 
+               <note place="margin">Pſal. 124. 1, 2.</note>
+               <pb n="12" facs="tcp:171045:11"/> 
+               <hi>Lord, who was on our ſide, may Iſrael now ſay: If it had not been the Lord who was on our ſide, when men roſe up against us: Then they had ſwallowed us up quick, when their wrath was kindled against us.</hi>
+            </p>
+            <p>That great Deliverances do call for great Reformation, by way of Thankfulneſs and Gratitude; <hi>This is implied throughout the whole.</hi>
+            </p>
+            <p>
+               <hi>Beloved Brethren,</hi> the late Deliverance of this Nation, is Great and Remarkable, it ſhould not only be Recorded in our Chronicles, but Written on our Hearts; he that hath no ſenſe of it, hath no regard for God or Religion; it deſerves to be Proclaimed with the lowdeſt Praiſes, our Hearts and Lives ſhould concur together, to demonſtrate our Gratitude for it.</p>
+            <p>God intends his Mercies, as Obligations to Obedience, they are Arguments very proper, to work on all that have any Inge<g ref="char:EOLhyphen"/>nuity. Let us then live up unto that holy
+<pb n="13" facs="tcp:171045:11"/> Religion God hath preſerved among us; now being delivered out of the Hands of our Enemies, let us ſerve our God, with humble and obedient Hearts; now we are ſecured from the Fears of Popery, let us live as doth become the Proteſtant Profeſ<g ref="char:EOLhyphen"/>ſion.</p>
+            <p>Let us not be more zealous for the Rites and Ceremonies of Religion, then for the Subſtantial and Indiſpenſible Duties of it; let us not waſte our Zeal upon Triffles that cannot profit or edifie Souls, and in the mean time looſe thoſe eſſential Graces, without which we cannot be ſaved; let us not contend about the Shell and part with the Kernel, the Life and Spirit of Chriſtianity, the Love of God and our Neighbour, let us all endeavour to exceed one another, in practiſing the ſubſtantial Duties of Piety, Juſtice, Sobriety, and Charity, and then we ſhall not differ much about indifferent Things.</p>
+            <pb n="14" facs="tcp:171045:12"/>
+            <p>Peace and Unity, are the Glory of a Chriſtian Church; this excellent Chara<g ref="char:EOLhyphen"/>cter is given of the Primitive and Pureſt: <hi>The multitude of them that believed, were</hi> 
+               <note place="margin">Acts 4. 32.</note> 
+               <hi>of one heart, and of one ſoul:</hi> Love is the inſeparable Badge, of a true Diſciple of Chriſt. <hi>By this ſhall all men know that ye</hi> 
+               <note place="margin">John 13 35.</note> 
+               <hi>are my diſciples, if ye have love one to ano<g ref="char:EOLhyphen"/>ther.</hi>
+            </p>
+            <p>Internal Holineſs, is abſolutely neceſſary to Salvation, becauſe <hi>without it no man ſhall</hi> 
+               <note place="margin">Heb. 12. 14.</note> 
+               <hi>ſee the Lord;</hi> let us then live in Peace, love one another, and honour the Goſpel with holy Lives, and then we ſhall anſwer God's end, in our great Deliverance: when God promiſeth Bleſſings to his People, he fore<g ref="char:EOLhyphen"/>tels them what Returns he expects; <hi>then ſhall ye remember your own evil ways, and</hi> 
+               <note place="margin">Ezek. 36. 31.</note> 
+               <hi>your doings that were not good, and ſhall loath your ſelves in your own ſight, for your iniquities, and for your abominations.</hi>
+            </p>
+            <pb n="15" facs="tcp:171045:12"/>
+            <p>Let us conſider the greatneſs of our Deliverance, that we may underſtand what Obligations are laid upon us, to Repen<g ref="char:EOLhyphen"/>tance and Reformation.</p>
+            <p>God hath preſerved us from Captivity, under a myſtical <hi>Babylon,</hi> from the <hi>Roman</hi> Yoke, a Burthen ſo Intolerable, that nei<g ref="char:EOLhyphen"/>ther we or our Fathers were able to bear it, we are ſecured from <hi>Aegyptian</hi> darkneſs, and all thoſe Oppreſſions the faithful Peo<g ref="char:EOLhyphen"/>ple of God would meet with in that Land.</p>
+            <p>We are Delivered from a Church, whoſe Doctrines contradict common Senſe, the moſt evident Principles of Reaſon, the plain Rules of Morality, and the known Laws of Chriſt; a Church that Magiſteri<g ref="char:EOLhyphen"/>ally impoſeth upon mens Conſciences, makes as many new Articles of Faith as it pleaſ<g ref="char:EOLhyphen"/>eth, and bindes all under the Penalty of Damnation, to an implicite Faith and O<g ref="char:EOLhyphen"/>bedience to all its Decrees and Rules.</p>
+            <pb n="16" facs="tcp:171045:13"/>
+            <p>A Church that pretends to an Univer<g ref="char:EOLhyphen"/>ſal Monarchy, to have Power to diſpoſe of all the Kingdoms of the World, to pardon Sins by Abſolution, and to give leave to Sin, by Diſpenſations.</p>
+            <p>A Church Idolatrous in the Wor<g ref="char:EOLhyphen"/>ſhipping of Images; the Adoration of a piece of Bread; the Invocation of Saints and Angels, and veneration of holy Relicks and Crucifixes.</p>
+            <p>A Church that would Rob you of one half of the Sacrament, take one of the Commandments out of the Moral Law, deprive you of the holy Scriptures, <hi>the Key of Knowledge,</hi> impoſe Prayers in an Unknown Tongue, and take much pains to increaſe Ignorance (as they call it) the Mo<g ref="char:EOLhyphen"/>ther of Devotion.</p>
+            <pb n="17" facs="tcp:171045:13"/>
+            <p>A Church that teacheth Doctrines not known in Scripture, that choke's Religion with numerous and inſignificant Ceremo<g ref="char:EOLhyphen"/>nies, and incourageth Sin by Pardons, Indulgences, eaſie Penances, and Diſpenſati<g ref="char:EOLhyphen"/>ons.</p>
+            <p>A Church whoſe Principles are Incon<g ref="char:EOLhyphen"/>ſiſtent with Human Society, and whoſe Religion is as bad as none at all; be<g ref="char:EOLhyphen"/>cauſe it indulgeth Sin, gratifies Carna<g ref="char:EOLhyphen"/>lity, and makes Internal Holineſs unneceſ<g ref="char:EOLhyphen"/>ſary.</p>
+            <p>A Church made up of Fraud and Cru<g ref="char:EOLhyphen"/>elty; whoſe Arguments to propagate their Faith are Priſons, Fagots, and Miſ<g ref="char:EOLhyphen"/>ſionary Dragoons, that keeps no Faith with ſuch as they call Hereticks, and think's it a meritorious Act to deſtroy them.</p>
+            <pb n="18" facs="tcp:171045:14"/>
+            <p>A Church that allow's the moſt wick<g ref="char:EOLhyphen"/>ed Methods, to carry on its own bad Cauſe, among whom Murtherers, are reputed Saints; and Men of Blood have their Names in their Rubricks.</p>
+            <p>A Church that would in time, have de<g ref="char:EOLhyphen"/>voured your Eſtates, ſeized your Lands, cor<g ref="char:EOLhyphen"/>rupted your Blood, and inſlaved you in Soul and Body.</p>
+            <p>Bleſſed be God, that he hath preſerved us from ſuch a Church, he ſuffered Popery to come to the Doors of our Churches, but would not permit it to enter in; he ſuffered our Enemies to make a great Progreſs, and then blaſt<g ref="char:EOLhyphen"/>ed all in a Moment; <hi>he delivered us</hi> 
+               <note place="margin">2 Cor. 1. 10.</note> 
+               <hi>from ſo great a death, and doth deliver, in whom we truſt, that he will yet deli<g ref="char:EOLhyphen"/>ver us.</hi>
+            </p>
+            <pb n="19" facs="tcp:171045:14"/>
+            <p>That Diſobedience after a great De<g ref="char:EOLhyphen"/>liverance, doth highly provoke God to inflict more terrible Judgments: <hi>Should we again break thy commandments, and joyn in affinity with the people of theſe abominations? would'st thou not be angry with us, till thou had'st conſumed us, ſo that there ſhould be no remnant nor eſcap<g ref="char:EOLhyphen"/>ing.</hi>
+            </p>
+            <p>God hath indeed been very Gracious unto us, he expects an impartial Refor<g ref="char:EOLhyphen"/>mation from all orders and degrees of Men among us, his Mercies ſhould in<g ref="char:EOLhyphen"/>gage us to walk more Humbly and Reli<g ref="char:EOLhyphen"/>giouſly.</p>
+            <p>But if God's end is fruſtrated, if his Mercies are abuſed, if we ſtill diſhon<g ref="char:EOLhyphen"/>our our Holy Religion, by ungodly Pra<g ref="char:EOLhyphen"/>ctices, then the Mercy of God will be converted into fury, he will Deliver us no more, but caſt us off for E<g ref="char:EOLhyphen"/>ver.</p>
+            <pb n="20" facs="tcp:171045:15"/>
+            <p>It was a laſting aggravation of the Sins of the <hi>Jews,</hi> that they rebelled againſt that God, who had brought them out of the Land of <hi>Aegypt,</hi> and from the Houſe of Bondage; it was a great aggravation of <hi>Davids</hi> Sin, that God had done ſuch and ſuch things for him, and yet he offended in the matter of <hi>
+                  <g ref="char:V">Ʋ</g>riah:</hi> it was an aggra<g ref="char:EOLhyphen"/>vation of King <hi>Solomon</hi>'s Sins, that he for<g ref="char:EOLhyphen"/>ſook that God who had Appeared to him twice, and it will be a terrible Aggravati<g ref="char:EOLhyphen"/>on of our Sins, that ſuch a great Mercy, ſuch a wonderful Deliverance hath not re<g ref="char:EOLhyphen"/>duced us to Obedience; God may juſtly ſay to us, as he did to the Incorrigible <hi>Jews; You only have I known of all the Families of</hi> 
+               <note place="margin">Amos 3. 2.</note> 
+               <hi>the Earth: therefore I will puniſh you for all your iniquities.</hi>
+            </p>
+            <p>Let us not think our ſelves paſt all Dan<g ref="char:EOLhyphen"/>ger, let us not put far from us an evil Day. Alas! they are never ſafe, who are ſecure in their Sins; he who hath Miraculouſly De<g ref="char:EOLhyphen"/>livered us at one time, can eaſily Deſtroy
+<pb n="12" facs="tcp:171045:15"/> us at another, if we Repent not.</p>
+            <p>O let every one take up the Reſolution of Holy <hi>David, I have ſworn, and I will</hi> 
+               <note place="margin">Pſal. 119. 106.</note> 
+               <hi>perform it, that I will keep thy righteous judg<g ref="char:EOLhyphen"/>ments:</hi> let us all anſwer as the Children of <hi>Iſrael</hi> did <hi>Joſhua; The Lord our God</hi> 
+               <note place="margin">Joſh. 24. 24.</note> 
+               <hi>will we ſerve, and his voice will we o<g ref="char:EOLhyphen"/>bey.</hi>
+            </p>
+            <p>God by his Providence ſpeaks now to us, as once unto the <hi>Jews; O that there</hi> 
+               <note place="margin">Deut. 5. 29.</note> 
+               <hi>were ſuch an heart in them that they would fear me and keep my commandments always that it might be well with them, and with their children for ever! O that my people had hark<g ref="char:EOLhyphen"/>ened</hi> 
+               <note place="margin">Pſal. 81. 13. 14.</note> 
+               <hi>unto me, and Iſrael had walked in my ways! I ſhould ſoon have ſubdued their Ene<g ref="char:EOLhyphen"/>mies, and turned my hand againſt their ad<g ref="char:EOLhyphen"/>verſaries.</hi>
+            </p>
+            <p>I ſhall conclude all with the Profeſſion and Exhortation of <hi>Samuel, Moreover, as</hi> 
+               <note place="margin">1 Sam. 12. 23, 24.</note> 
+               <hi>for me, God forbid that I ſhould ſin againſt the Lord, in ceaſing to pray for you: but I</hi>
+               <pb n="22" facs="tcp:171045:16"/> 
+               <hi>will teach you the good and the right way. Onely fear the Lord and ſerve him in truth, with all your heart, for conſider how great things he hath done for you, but if ye ſhall ſtill do wickedly, ye ſhall be conſumed both ye and your king.</hi>
+            </p>
+            <closer>To God the Father, God the Son, and God the Holy Ghoſt, be Honour, Praiſe, Love, and Adoration, hence<g ref="char:EOLhyphen"/>forth, and for ever more.</closer>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:171045:16"/>
+         </div>
+      </body>
+   </text>
+</TEI>
